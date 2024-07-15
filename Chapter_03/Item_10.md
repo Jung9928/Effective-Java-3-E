@@ -1,4 +1,4 @@
-# Item 9. try-finally 보다는 try-with-resources를 사용하라
+# Item 10. equals는 일반 규약을 지켜 재정의하라
 
 ### 내용 요약 <br>
 equals 메소드는 재정의하기 쉬워보이지만 정확히 알고 사용하지 않으면 예기치 못한 상황에 맞닥뜨릴 수 있다. <br>
